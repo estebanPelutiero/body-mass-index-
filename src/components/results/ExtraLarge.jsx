@@ -2,7 +2,7 @@ import React from 'react'
 
 const ExtraLarge = () => {
   return (
-    <div className='info-card'>
+    <div className='info-card slide-top'>
 
       <div className='left-header'>Obesidad</div>  
 

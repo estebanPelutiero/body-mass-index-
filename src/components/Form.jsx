@@ -28,7 +28,7 @@ const Form = ({ weigth, setWeigth, height, setHeight, result, setResult }) => {
     <>
       <form onSubmit={ formSubmit } className="form">
 
-        <h1>Calculadora de índice de masa corporal</h1>
+        <h1 className="slide-top">Calculadora de índice de masa corporal</h1>
 
         <label className="form-label">Estatura en cm</label>
 

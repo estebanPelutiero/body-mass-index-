@@ -4,7 +4,7 @@ const Default = () => {
 
   return (
     
-    <div className='info-card'>
+    <div className='info-card slide-top'>
 
       <div className='left-header'>Bienvenido!</div>  
 

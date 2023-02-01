@@ -2,7 +2,7 @@ import React from 'react'
 
 const Normal = () => {
   return (
-    <div className='info-card'>
+    <div className='info-card slide-top'>
 
       <div className='left-header'>Peso saludable</div>  
 

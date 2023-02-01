@@ -3,7 +3,7 @@ import React from 'react'
 const Light = () => {
   
   return (
-    <div className='info-card'>
+    <div className='info-card slide-top'>
 
       <div className='left-header'>Bajo peso</div>  
 
